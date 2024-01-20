@@ -4,7 +4,7 @@ This repository contains a simple test suite implemented using pytest, a popular
 ## Project Structure
 The project is structured with folders to simulate a real-world project, showcasing good organization practices. The structure may include directories such as tests, src, and others, depending on your project's complexity.
 
-
+"""
 project-root/ 
 | 
 ├── tests/ 
@@ -19,7 +19,7 @@ project-root/
 │   └── ... 
 │ 
 └── ... 
-
+"""
 
 ## Mock Data
 Mocks within the tests can be created using either static or dynamic data. This flexibility allows you to simulate different scenarios and test your code under various conditions.
