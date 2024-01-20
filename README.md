@@ -5,20 +5,20 @@ This repository contains a simple test suite implemented using pytest, a popular
 The project is structured with folders to simulate a real-world project, showcasing good organization practices. The structure may include directories such as tests, src, and others, depending on your project's complexity.
 
 
-project-root/
-│
-├── tests/
-│   ├── test_module1.py
-│   ├── test_module2.py
-│   └── ...
-│
-├── src/
-|   ├── __init__.py
-│   ├── module1.py
-│   ├── module2.py
-│   └── ...
-│
-└── ...
+project-root/ 
+| 
+├── tests/ 
+│   ├── test_module1.py 
+│   ├── test_module2.py 
+│   └── ... 
+│  
+├── src/ 
+|   ├── __init__.py 
+│   ├── module1.py 
+│   ├── module2.py 
+│   └── ... 
+│ 
+└── ... 
 
 
 ## Mock Data
