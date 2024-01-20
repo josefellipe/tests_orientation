@@ -4,11 +4,6 @@ This repository contains a simple test suite implemented using pytest, a popular
 ## Project Structure
 The project is structured with folders to simulate a real-world project, showcasing good organization practices. The structure may include directories such as tests, src, and others, depending on your project's complexity.
 
-
-project-root/ \n
-| \n
-├── tests/
-
 project-root/ 
 | 
 ├── tests/ 
